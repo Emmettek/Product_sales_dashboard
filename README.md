@@ -12,7 +12,7 @@ Ten projekt zawiera analizę sprzedaży produktów wraz z wizualizacjami i rapor
 Celem projektu jest analiza sprzedaży produktów i przedstawienie wyników w formie raportu oraz wizualizacji przygotowanych w Power BI. Raport umożliwia interaktywne przeglądanie danych i analizę trendów sprzedaży.
 ### Dane
 Dane możesz pobrać bezpośrednio z mojego repozytorium GitHub:
-- [`InvoiceData.xlsx`](https://github.com/Emmettek/Product_sales_dashboard/blob/16fc5a8e912b27161bcd6d3a571a3d52627852f4/database/InvoiceData.xlsx))
+- [`InvoiceData.xlsx`](https://github.com/Emmettek/Product_sales_dashboard/blob/16fc5a8e912b27161bcd6d3a571a3d52627852f4/database/InvoiceData.xlsx)
 - [`CustomerMaster.xlsx`](https://github.com/Emmettek/Product_sales_dashboard/blob/16fc5a8e912b27161bcd6d3a571a3d52627852f4/database/CustomerMaster.xlsx)
 ### Wizualizacja 
 ![Wizualizacja](sprzedaż_produktów_dashboard.png)
